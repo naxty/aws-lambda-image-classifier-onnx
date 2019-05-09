@@ -1,0 +1,2 @@
+
+docker build -t image_classifier . && docker run -it -v $(pwd):/opt/rekognition -e AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY -e AWS_DEFAULT_REGION=eu-central-1 image_classifier

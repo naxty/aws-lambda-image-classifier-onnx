@@ -4,5 +4,5 @@ jspm_packages
 
 # Serverless directories
 .serverless
-./model/resnet.onnx
+model/resnet.onnx
 .env
