@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "canvas": "^2.4.1",
     "image-to-base64": "^2.0.1",
     "ndarray": "^1.0.18",
